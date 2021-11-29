@@ -6,9 +6,9 @@
 
 ## Table des matières
 
-- [Aperçu du projet](#apercu-du-projet)
+- [Aperçu du projet](#aperçu-du-projet)
 - [Utilisation](#utilisation)
-  - [Vidéo](#video)
+  - [Vidéo](#vidéo)
   - [Cheatsheet Markdown](#cheatsheet-markdown)
 - [Liens utiles](#liens-utiles)
 - [Remerciements](#remerciements)
