@@ -76,6 +76,13 @@ _Il est **possible** de les combiner_
 2. Ordonnée
 ```
 
+- Liste
+  - non
+* ordonnée
+
+1. Liste
+2. Ordonnée
+
 4. Images et liens
 
 ```markdown
