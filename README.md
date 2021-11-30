@@ -22,7 +22,7 @@ Vidéo éducatives sur les bienfaits des README, leur beauté mystérieuse et fa
 
 ### Vidéo
 
-  - Rendez-vous sur [ce lien](#)
+  - Rendez-vous sur [ce lien](https://youtu.be/zQlRNekwb14)
   - Enjoy !
 
 ### Cheatsheet Markdown
