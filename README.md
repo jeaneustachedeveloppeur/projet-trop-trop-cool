@@ -186,6 +186,7 @@ Cellule A2 | Cellule B2
 
 ## Liens utiles
 
+- [readme.so (editeur / générateur de readme)](https://readme.so/editor)
 - [awesome-readme](https://github.com/matiassingers/awesome-readme)
 - [How to Write a Good README File for Your GitHub Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
 - [How to Write Beautiful and Meaningful README.md](https://dev.to/silentlad/how-to-write-beautiful-and-meaningful-readme-md-jp3)
